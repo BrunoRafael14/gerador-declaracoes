@@ -1,0 +1,3 @@
+Melhorias Para o futuro
+
+- Organizar mais, como por exemplo montar um dicionario com as informações ao invés da maneira que está o return
